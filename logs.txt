@@ -1,0 +1,195 @@
+Error 1: blablabla
+Error 1: blablabla
+Error 1: blablabla
+Error 2: blablabla
+'_io.TextIOWrapper' object has no attribute 'writerow'
+https://www.teplograd.ru/catalog/serie/jelektricheskie_kotly/kotel_stout_12_kvt
+
+'_io.TextIOWrapper' object has no attribute 'writerow'
+https://www.teplograd.ru/catalog/serie/jelektricheskie_kotly/kotel_stout_12_kvt
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_turbo_36kvt_20041939
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_turbo_20041937
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/universalnye_komplekty/prisoedinitelnyy_nabor_dlya_radiatora_global_kit_1_2_chernogo_tsveta
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/universalnye_komplekty/prisoedinitelnyy_nabor_dlya_radiatora_global_kit_1_2_serogo_tsveta
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/universalnye_komplekty/prisoedinitelnyy_nabor_dlya_radiatora_global_kit_1_2_tsvet_khrom
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/universalnye_komplekty/prisoedinitelnyy_nabor_dlya_radiatora_global_kit_3_4_chernogo_tsveta
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/universalnye_komplekty/prisoedinitelnyy_nabor_dlya_radiatora_global_kit_3_4_serogo_tsveta
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/komplektujuwie_k_radiatoram/kronshteyn_global_s_dyubelem_170_mm_chernogo_tsveta
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/komplektujuwie_k_radiatoram/kronshteyn_global_s_dyubelem_170_mm_serogo_tsveta
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/tehny_dlya_vodonagrevatelej/elektricheskiy_ten_baxi_2_5
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/tehny_dlya_vodonagrevatelej/elektricheskiy_ten_baxi_3
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/tehny_dlya_vodonagrevatelej/elektricheskiy_ten_baxi_6
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/tehny_dlya_vodonagrevatelej/elektricheskiy_ten_baxi_9
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/tehny_dlya_vodonagrevatelej/elektricheskiy_ten_baxi_12
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/polipropilenovye_fitingi/kollektor_kalde_na_6_vykhoda_ruchki_krasnye_3262_mnr_400620
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/polipropilenovye_fitingi/kollektor_kalde_na_7_vykhoda_ruchki_krasnye_3262_mnr_400720
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/polipropilenovye_fitingi/kollektor_kalde_na_8_vykhoda_ruchki_krasnye_3262_mnr_400820
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/polipropilenovye_fitingi/kollektor_kalde_na_6_vykhoda_ruchki_sinie_3262_mnb_400620
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/polipropilenovye_fitingi/kollektor_kalde_na_7_vykhoda_ruchki_sinie_3262_mnb_400720
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/polipropilenovye_fitingi/kollektor_kalde_na_8_vykhoda_ruchki_sinie_3262_mnb_400820
+
+'NoneType' object is not subscriptable
+
+05.04.2022
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_turbo_36kvt_20041939
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_turbo_20041937
+
+'NoneType' object is not subscriptable
+
+*******************
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_turbo_36kvt_20041939
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_turbo_20041937
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+'NoneType' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/zapchasti_vaillant/kabelnyj_zhgut_atmo_20041936
+
+***********************
+[Errno 22] Invalid argument
+
+***********************
+name 'i' is not defined
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+list assignment index out of range
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+list index out of range
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+[Errno 22] Invalid argument
+
+***********************
+
+
+find() takes no keyword arguments
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+find() takes no keyword arguments
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+find() takes no keyword arguments
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+find() takes no keyword arguments
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+find() takes no keyword arguments
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+find() takes no keyword arguments
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+unsupported operand type(s) for +: 'int' and 'str'
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+'int' object has no attribute 'text'
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+unsupported operand type(s) for +: 'int' and 'str'
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+'NavigableString' object has no attribute 'get'
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+unsupported operand type(s) for +: 'Tag' and 'str'
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+unsupported operand type(s) for +: 'Tag' and 'str'
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+unsupported operand type(s) for +: 'Tag' and 'str'
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+unsupported operand type(s) for +: 'Tag' and 'str'
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+0
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+0
+https://www.teplograd.ru/catalog/serie/kontrollery_salus_dlya_upravleniya_teplym_polom/salus_pl06
+
+*************************************************[Errno 22] Invalid argument
+

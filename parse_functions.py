@@ -21,13 +21,6 @@ def get_base_url(url):
 	base_url = url[:position-1:]
 	return base_url
 
-def replace_duplicates(list_with_duplicates):
-	list_temp = []
-	for element in list_with_duplicates:
-		if not element in list_temp:
-			list_temp.append(element)
-	return list_temp
-
 def get_category_list(url):
 	try:
 		print('Collecting category list...')
@@ -36,12 +29,13 @@ def get_category_list(url):
 		soup = BeautifulSoup(raw_data.text, 'html.parser')
 		data_block = soup.find('div', class_="menu_top_block catalog_block")
 		if data_block:
-			data_block1=data_block.find_all('a', class_="icons_fa parent")
+			data_block1=data_block.find_all('a', class_="icons_fa")
 			urls = []
 			for category_url in data_block1:
 				category_url1 = base_url+category_url.get('href')
 				category_name = category_url.text
 				urls.append({'category_url':category_url1, 'category_name':category_name})
+				print(f'{len(urls)} of {len(data_block1)}: {category_name}')
 			return urls
 		else:
 			return None
@@ -54,7 +48,12 @@ def get_category_urls(url):
 		base_url = get_base_url(url)
 		urls = []
 		next_page = url
+		total_pages = BeautifulSoup(requests.get(url).text, 'html.parser').find('div', class_="module-pagination")
+		total_pages = total_pages.find_all('a')[-1].text
+		current_page = 1
 		while next_page:
+			print(f'Page {current_page} of {total_pages}.')
+			current_page += 1
 			raw_data = requests.get(next_page)
 			soup = BeautifulSoup(raw_data.text, 'html.parser')
 			next_page = soup.find('a', class_="flex-next")
@@ -128,8 +127,8 @@ def get_product_info(url):
 		log_error(str(e)+'\n'+url+'\n')
 		return None
 
-def write_result(products):
-	with open('out.csv', 'w', encoding='utf-8') as file:
+def write_result(products, filename='out.csv'):
+	with open(filename, 'w', encoding='utf-8') as file:
 		max_number_of_categories = 0
 		for product in products:
 			if product and product['number_of_categories'] and product['number_of_categories']>max_number_of_categories:
